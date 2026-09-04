@@ -23,8 +23,8 @@
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your beautiful light-mode dashboard here!)*  
-`![Dashboard Screenshot](./docs/screenshot.png)`
+<img width="1518" height="862" alt="image" src="https://github.com/user-attachments/assets/1717bd54-995d-40b9-8526-798fd63f03bf" />
+
 
 ---
 
@@ -181,7 +181,3 @@ If we had more time, here is how we would scale this for Razorpay production:
 3. **Multi-Agent Orchestration:** Use a secondary LLM to verify and critique the first LLM's decisions for ultra-high-value transactions.
 
 ---
-
-<div align="center">
-  <p>Built with ❤️ for the Razorpay Hackathon.</p>
-</div>
