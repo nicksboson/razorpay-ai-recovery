@@ -21,6 +21,11 @@
 </div>
 
 ---
+## Explanation Video 
+Youtube: https://www.youtube.com/watch?v=AJcaq0IABbw
+Canva: https://canva.link/095drgif0svtghz
+
+---
 
 ## 📸 Dashboard Preview
 <img width="1518" height="862" alt="image" src="https://github.com/user-attachments/assets/1717bd54-995d-40b9-8526-798fd63f03bf" />
