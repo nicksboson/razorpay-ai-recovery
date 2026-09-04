@@ -8,12 +8,8 @@ const recoveryRoutes = require('./routes/recovery');
 const app = express();
 
 // ─── MIDDLEWARE ───────────────────────────────────────────────────────────────
-app.use(cors({
-  origin: [
-    'http://localhost:5173',       // Vite dev server
-    process.env.FRONTEND_URL       // Production Vercel URL
-  ].filter(Boolean)
-}));
+// Allow ALL origins for the hackathon deployment to prevent any CORS blockages
+app.use(cors());
 app.use(express.json());
 
 // ─── ROUTES ───────────────────────────────────────────────────────────────────
