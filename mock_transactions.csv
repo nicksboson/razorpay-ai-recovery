@@ -1,0 +1,11 @@
+Merchant,Customer Email,Customer Phone,Amount,Failure Reason
+Netflix,user1@gmail.com,9876543210,649,insufficient_funds
+Amazon,user2@yahoo.com,9876543211,1499,network_timeout
+Spotify,user3@hotmail.com,9876543212,119,card_expired
+Uber,user4@gmail.com,9876543213,450,wrong_upi_pin
+Flipkart,user5@gmail.com,9876543214,12999,fraud_suspected
+MakeMyTrip,user6@outlook.com,9876543215,8500,insufficient_funds
+Zomato,user7@gmail.com,9876543216,45,network_timeout
+Swiggy,user8@gmail.com,9876543217,320,wrong_upi_pin
+Apple,user9@icloud.com,9876543218,999,card_expired
+Zepto,user10@gmail.com,9876543219,150,insufficient_funds
