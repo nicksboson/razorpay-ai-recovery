@@ -7,7 +7,8 @@ import AddTransactionModal from './components/AddTransactionModal';
 import { Plus, RotateCcw, Upload } from 'lucide-react';
 import * as XLSX from 'xlsx';
 
-const API = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+// Hardcoded for production to ensure it connects regardless of Vercel env settings!
+const API = 'https://razorpay-ai-recovery.onrender.com';
 
 export default function App() {
   const [transactions, setTransactions] = useState([]);
